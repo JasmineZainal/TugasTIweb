@@ -1,0 +1,42 @@
+body{
+    font-family: Dosis;
+    margin: 0;
+    padding: 0;
+}
+.blackcenter{
+    background-color: rgb(97, 23, 35);
+    color: rgb(255, 255, 217);
+    text-align: center;
+}
+.header{
+    padding: 20px;
+    font-size: 30px;
+}
+.footer{
+    clear: both;
+    padding: 20px;
+}
+.homepage{
+    background-color: rgb(255, 255, 217);
+    width: 30%;
+    height: 300px;
+    float: left;
+    color:black;
+}
+.main{
+    background-color: rgb(133, 107, 77);
+    width: 70%;
+    height: 300px;
+    float: left;
+    text-align: justify;
+}
+a{
+    color:rgb(71, 20, 20);
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+}
+.pad{
+    padding: 10px;
+}
